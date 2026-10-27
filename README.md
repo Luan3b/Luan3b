@@ -77,9 +77,25 @@ Projeto desenvolvido durante meu estágio em Engenharia de Dados na Xerlock.
 
 ---
 
-### 📊 Estatísticas
+### 📊 Estatísticas do GitHub
 
-<p>
-  <img align="left" alt="Estatísticas GitHub" height="195" src="https://github-readme-stats.vercel.app/api?username=Luan3b&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/>
-  <img align="left" alt="Linguagens mais utilizadas" height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luan3b&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"/>
+<p align="left">
+  <img
+    alt="Resumo das atividades"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Luan3b&theme=tokyonight"
+  />
 </p>
+
+<p align="left">
+  <img
+    height="180"
+    alt="Estatísticas"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Luan3b&theme=tokyonight"
+  />
+  <img
+    height="180"
+    alt="Linguagens"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Luan3b&theme=tokyonight"
+  />
+</p>
+
