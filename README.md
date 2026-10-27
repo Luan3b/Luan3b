@@ -15,8 +15,11 @@ Sou certificado AWS Certified Cloud Practitioner e busco oportunidades de estág
     <a href="https://github.com/Luan3b?tab=repositories&sort=stargazers">
         <img alt="Estrelas" title="Estrelas no GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Luan3b?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas"/>
     </a>
-    <a href="https://www.linkedin.com/in/luanborba-ds/">
-        <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <a href="https://www.linkedin.com/in/luan-borba-ds/" target="_blank">
+        <img
+            alt="LinkedIn"
+            title="Meu LinkedIn"
+            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
     <a href="mailto:luanborba35@gmail.com">
         <img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
